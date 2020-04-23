@@ -13,7 +13,7 @@ The Main point of project is to create **realtime Audio Visualizer Mode**
 2. Police Mode
 
 # Download & Install
-1. Check if your motherboard in the working list.
+1. Check if your motherboard in the [working list](#current-supported-motherboards-as-sdk).
 2. Install [VC Redist 2017 x64](https://aka.ms/vs/15/release/vc_redist.x64.exe).
 3. Download the [latest release](https://github.com/D4rkTT/Magic-Light/releases/download/1.0/MSI_Magic_Light_x64.rar).
 4. Run Application As Administrator, this is required to access the hardware.
@@ -50,7 +50,7 @@ The Main point of project is to create **realtime Audio Visualizer Mode**
 - MSI X399 GAMING PRO CARBON AC
 - MSI X399 SLI PLUS
 
-## Working but not in above list [Supported Motherboards](#)
+## Working but not in above list [Supported Motherboards](#current-supported-motherboards-as-sdk)
 
 - MSI B350 TOMAHAWK
 - MSI B450 TOMAHAWK
